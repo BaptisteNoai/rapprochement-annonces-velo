@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Rise H20 est le plus proche en termes de version et de gamme, bien que l'année soit différente.\" }",
+ "tokens_entree": 535,
+ "tokens_sortie": 56,
+ "arret": "stop",
+ "latence_s": 11.449
+}

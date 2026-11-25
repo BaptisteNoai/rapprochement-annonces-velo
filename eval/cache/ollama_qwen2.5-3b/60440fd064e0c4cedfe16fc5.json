@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": true, \"raison\": \"Le modèle de l'annonce correspond exactement au modèle du catalogue, sans différences notables.\" }",
+ "tokens_entree": 307,
+ "tokens_sortie": 36,
+ "arret": "stop",
+ "latence_s": 6.04
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"La version 2025 n'est pas présente dans le catalogue 2019\" }",
+ "tokens_entree": 307,
+ "tokens_sortie": 35,
+ "arret": "stop",
+ "latence_s": 5.999
+}

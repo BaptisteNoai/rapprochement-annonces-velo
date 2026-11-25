@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"haute\", \"raison\" : \"Le modèle 2 correspond exactement à l'annonce avec la même gamme et version, et l'année 2023 est la plus proche de l'année de l'annonce.\" }",
+ "tokens_entree": 524,
+ "tokens_sortie": 67,
+ "arret": "stop",
+ "latence_s": 11.896
+}

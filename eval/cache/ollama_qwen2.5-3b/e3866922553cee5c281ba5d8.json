@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version Race dans l'annonce, version HPC dans le catalogue\" }",
+ "tokens_entree": 336,
+ "tokens_sortie": 29,
+ "arret": "stop",
+ "latence_s": 4.891
+}

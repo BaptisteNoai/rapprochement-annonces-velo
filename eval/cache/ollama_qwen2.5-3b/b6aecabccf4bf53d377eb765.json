@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 3, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Rise H10 de 2024 est le plus proche en année de l'annonce 2025, mais il y a des modèles plus récents.\" }",
+ "tokens_entree": 536,
+ "tokens_sortie": 65,
+ "arret": "stop",
+ "latence_s": 11.437
+}

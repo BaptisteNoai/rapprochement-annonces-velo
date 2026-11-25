@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle 1 est de la même gamme que l'annonce, mais la version AT 800 est différente de la version HPC TM.\" }",
+ "tokens_entree": 578,
+ "tokens_sortie": 58,
+ "arret": "stop",
+ "latence_s": 11.339
+}

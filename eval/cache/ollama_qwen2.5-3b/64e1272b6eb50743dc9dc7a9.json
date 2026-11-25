@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Le modèle de l'annonce (Moterra Neo 1) n'est pas identique au modèle du catalogue (MOTERRA SL 1)\" }",
+ "tokens_entree": 311,
+ "tokens_sortie": 46,
+ "arret": "stop",
+ "latence_s": 6.68
+}

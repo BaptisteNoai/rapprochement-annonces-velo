@@ -1,0 +1,13 @@
+{
+ "date": "2026-11-24",
+ "methode": "baseline_seuil100_test",
+ "n": 100,
+ "exactitude": 0.75,
+ "precision": 0.5897,
+ "rappel": 0.5476,
+ "aucun_juste": 0.8966,
+ "n_avec_modele": 42,
+ "n_sans_modele": 58,
+ "partie": "test",
+ "seuil": 100.0
+}

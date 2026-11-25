@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le Rail 5 est une version plus ancienne de la gamme Rail.\" }",
+ "tokens_entree": 523,
+ "tokens_sortie": 41,
+ "arret": "stop",
+ "latence_s": 9.694
+}

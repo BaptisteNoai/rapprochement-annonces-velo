@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Rise M10 est identique à l'annonce Orbea Rise Other Shimano 2022, avec la seule différence d'une année de plus.\" }",
+ "tokens_entree": 528,
+ "tokens_sortie": 62,
+ "arret": "stop",
+ "latence_s": 10.312
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle E-Brione de 2023 est la plus proche de l'année 2024 de l'annonce, mais il s'agit d'un modèle différent.\" }",
+ "tokens_entree": 520,
+ "tokens_sortie": 66,
+ "arret": "stop",
+ "latence_s": 11.508
+}

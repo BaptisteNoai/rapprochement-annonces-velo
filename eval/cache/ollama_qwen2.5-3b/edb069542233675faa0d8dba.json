@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 8, \"confiance\" : \"haute\", \"raison\" : \"Le modèle Gain M30 est identique à Gain H30 avec une différence de finition (Carbon Ultegra Di2 vs H30) qui n'affecte pas la gamme et la version.\" }",
+ "tokens_entree": 541,
+ "tokens_sortie": 70,
+ "arret": "stop",
+ "latence_s": 11.995
+}

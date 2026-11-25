@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version 'EXC' différente de 'SLT'\" }",
+ "tokens_entree": 322,
+ "tokens_sortie": 27,
+ "arret": "stop",
+ "latence_s": 4.606
+}

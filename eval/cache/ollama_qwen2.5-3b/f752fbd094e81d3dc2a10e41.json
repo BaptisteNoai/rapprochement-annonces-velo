@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 4, \"confiance\" : \"basse\", \"raison\" : \"La seule année proche est 2023, mais la version est différente.\" }",
+ "tokens_entree": 519,
+ "tokens_sortie": 44,
+ "arret": "stop",
+ "latence_s": 9.654
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 4, \"confiance\" : \"moyenne\", \"raison\" : \"Le Gain D50 de 2021 est le seul modèle qui correspond en gamme et version, bien que l'année soit plus récente que celle de l'annonce.\" }",
+ "tokens_entree": 547,
+ "tokens_sortie": 65,
+ "arret": "stop",
+ "latence_s": 14.439
+}

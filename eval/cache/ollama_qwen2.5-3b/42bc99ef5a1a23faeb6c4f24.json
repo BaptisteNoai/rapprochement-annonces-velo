@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 7, \"confiance\" : \"moyenne\", \"raison\" : \"La version Turbo Levo SL Comp est la même que Turbo Levo SL Comp Carbon, et la plus proche en année de l'annonce 2021.\" }",
+ "tokens_entree": 536,
+ "tokens_sortie": 61,
+ "arret": "stop",
+ "latence_s": 13.336
+}

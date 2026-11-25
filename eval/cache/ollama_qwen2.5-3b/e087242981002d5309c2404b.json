@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 2, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle AllTrack 6 est le plus proche en année de l'annonce 2024\" }",
+ "tokens_entree": 535,
+ "tokens_sortie": 49,
+ "arret": "stop",
+ "latence_s": 10.531
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 3, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Triestina est différent de l'Hybrid mentionné dans l'annonce.\" }",
+ "tokens_entree": 543,
+ "tokens_sortie": 44,
+ "arret": "stop",
+ "latence_s": 9.956
+}

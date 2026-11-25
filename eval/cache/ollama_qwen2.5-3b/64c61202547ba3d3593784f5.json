@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version EXC manquée dans le catalogue\" }",
+ "tokens_entree": 316,
+ "tokens_sortie": 25,
+ "arret": "stop",
+ "latence_s": 5.417
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Turbo Levo 4 Expert 2026 n'est pas exactement identique à Turbo Levo 2018, Turbo Levo 3 Expert 2021, Turbo Levo Expert Carbon 2020 ou Turbo Levo Expert Carbon 2021. Les Turbo Levo SL Expert Carbon 2020 et 2021 sont proches, mais Turbo Levo SL Expert Carbon 2020 est plus proche en termes de version.\" }",
+ "tokens_entree": 544,
+ "tokens_sortie": 133,
+ "arret": "stop",
+ "latence_s": 19.28
+}

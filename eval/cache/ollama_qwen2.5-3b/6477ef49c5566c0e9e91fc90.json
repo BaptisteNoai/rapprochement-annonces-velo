@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 2, \"confiance\" : \"basse\", \"raison\" : \"Le Turbo Como SL 5.0 est proche de Turbo Como 5.0 mais a une année différente\" }",
+ "tokens_entree": 557,
+ "tokens_sortie": 50,
+ "arret": "stop",
+ "latence_s": 10.836
+}

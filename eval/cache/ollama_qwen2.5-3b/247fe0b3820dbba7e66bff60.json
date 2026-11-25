@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 0, \"confiance\" : \"basse\", \"raison\" : \"Le modèle est différent (Brsn 4.1 C MX vs HECKLER R MX)\" }",
+ "tokens_entree": 394,
+ "tokens_sortie": 45,
+ "arret": "stop",
+ "latence_s": 7.125
+}

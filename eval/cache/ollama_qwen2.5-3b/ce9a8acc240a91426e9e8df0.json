@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"La version Comp est différente de la version Race\" }",
+ "tokens_entree": 313,
+ "tokens_sortie": 26,
+ "arret": "stop",
+ "latence_s": 5.29
+}

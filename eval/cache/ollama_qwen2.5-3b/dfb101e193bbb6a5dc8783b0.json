@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Moterra Neo 4 est identique à Moterra Neo 1 avec une version légère (LT) et une finition différente (SL). La différence d'année est faible (2023 vs 2024) et Moterra Neo 1 est le plus proche.\" }",
+ "tokens_entree": 544,
+ "tokens_sortie": 90,
+ "arret": "stop",
+ "latence_s": 19.575
+}

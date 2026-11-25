@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"Version manquée : FS\" }",
+ "tokens_entree": 309,
+ "tokens_sortie": 24,
+ "arret": "stop",
+ "latence_s": 5.014
+}

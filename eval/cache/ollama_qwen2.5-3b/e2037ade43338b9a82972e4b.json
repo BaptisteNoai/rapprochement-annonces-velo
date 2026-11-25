@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 2, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle 2 est identique à l'annonce, avec la même gamme et version de \" }",
+ "tokens_entree": 545,
+ "tokens_sortie": 48,
+ "arret": "stop",
+ "latence_s": 10.747
+}

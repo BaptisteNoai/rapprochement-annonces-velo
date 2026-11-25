@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 0, \"confiance\" : \"basse\", \"raison\" : \"Le modèle E-Power X-Vert Elite Gent 2023 n'est pas identifié dans la liste de candidats.\" }",
+ "tokens_entree": 583,
+ "tokens_sortie": 52,
+ "arret": "stop",
+ "latence_s": 14.318
+}

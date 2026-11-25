@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle 1 est identique à l'annonce sauf pour l'année (2022 vs 2023) ce qui est un détail mineur.\" }",
+ "tokens_entree": 646,
+ "tokens_sortie": 62,
+ "arret": "stop",
+ "latence_s": 14.168
+}

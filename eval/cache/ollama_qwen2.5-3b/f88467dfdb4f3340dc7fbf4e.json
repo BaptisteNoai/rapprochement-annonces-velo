@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Le modèle de l'annonce contient 'AVENTURA² 6.7' qui n'est pas présent dans le modèle du catalogue qui est 'Aventura² 6.7 | 2023'\" }",
+ "tokens_entree": 310,
+ "tokens_sortie": 61,
+ "arret": "stop",
+ "latence_s": 8.069
+}

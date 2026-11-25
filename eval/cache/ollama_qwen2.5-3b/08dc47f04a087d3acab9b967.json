@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle 2023 de T-Tronik T-Type est le plus proche de la version 2023 de T-Tronik Rebel 9.2\" }",
+ "tokens_entree": 557,
+ "tokens_sortie": 64,
+ "arret": "stop",
+ "latence_s": 12.778
+}

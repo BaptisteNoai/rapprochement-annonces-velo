@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 7, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Moterra Neo 5 2024 est le plus proche de la version Moterra Neo 4 2023 du catalogue\" }",
+ "tokens_entree": 543,
+ "tokens_sortie": 59,
+ "arret": "stop",
+ "latence_s": 11.359
+}

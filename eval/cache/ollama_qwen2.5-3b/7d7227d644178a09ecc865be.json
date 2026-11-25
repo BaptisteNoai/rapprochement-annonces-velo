@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Overvolt 5.4 est la plus proche en gamme et version de l'annonce Overvolt GLP 2 Elite 2022\" }",
+ "tokens_entree": 548,
+ "tokens_sortie": 61,
+ "arret": "stop",
+ "latence_s": 12.038
+}

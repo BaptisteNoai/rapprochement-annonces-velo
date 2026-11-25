@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Mot de version 'Embolden E+ 1' absent du modèle du catalogue\" }",
+ "tokens_entree": 308,
+ "tokens_sortie": 33,
+ "arret": "stop",
+ "latence_s": 5.64
+}

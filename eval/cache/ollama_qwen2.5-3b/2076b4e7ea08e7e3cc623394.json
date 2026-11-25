@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"La version 2022 est la plus proche de 2021\" }",
+ "tokens_entree": 558,
+ "tokens_sortie": 44,
+ "arret": "stop",
+ "latence_s": 10.495
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 0, \"confiance\" : \"basse\", \"raison\" : \"Le modèle est différent (Brsn 4.1 C MX 23 Gr.M vs Heckler SL XX AXS RSV)\" }",
+ "tokens_entree": 397,
+ "tokens_sortie": 53,
+ "arret": "stop",
+ "latence_s": 7.525
+}

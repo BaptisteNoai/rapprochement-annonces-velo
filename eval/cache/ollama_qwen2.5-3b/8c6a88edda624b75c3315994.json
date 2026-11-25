@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Différence de finition entre HPC TM et HPC Race\" }",
+ "tokens_entree": 649,
+ "tokens_sortie": 40,
+ "arret": "stop",
+ "latence_s": 11.357
+}

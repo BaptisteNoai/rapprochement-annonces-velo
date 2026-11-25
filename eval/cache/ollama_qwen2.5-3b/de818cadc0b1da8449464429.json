@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 4, \"confiance\" : \"basse\", \"raison\" : \"La Wild H10 est la seule version Wild de l'annonce, mais l'année 2019 est différente.\" }",
+ "tokens_entree": 547,
+ "tokens_sortie": 54,
+ "arret": "stop",
+ "latence_s": 12.316
+}

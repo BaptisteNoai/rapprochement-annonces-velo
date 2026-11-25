@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 2, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Kemen 10 est identique à celui de l'annonce, avec seulement une année différente.\" }",
+ "tokens_entree": 557,
+ "tokens_sortie": 50,
+ "arret": "stop",
+ "latence_s": 10.603
+}

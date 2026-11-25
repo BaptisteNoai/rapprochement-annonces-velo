@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 3, \"confiance\" : \"haute\", \"raison\" : \"Le Gain M30 2023 est la seule version M30 dans la liste, et l'année est la même que dans l'annonce.\" }",
+ "tokens_entree": 538,
+ "tokens_sortie": 59,
+ "arret": "stop",
+ "latence_s": 11.735
+}

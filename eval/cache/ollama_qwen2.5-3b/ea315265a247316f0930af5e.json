@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 2, \"confiance\" : \"moyenne\", \"raison\" : \"Le Turbo Levo Expert Carbon 2021 est la version la plus proche en termes de finition et de gamme\" }",
+ "tokens_entree": 543,
+ "tokens_sortie": 55,
+ "arret": "stop",
+ "latence_s": 13.727
+}

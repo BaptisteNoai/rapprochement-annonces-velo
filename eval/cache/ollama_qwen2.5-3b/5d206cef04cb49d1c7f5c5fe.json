@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 2, \"confiance\" : \"basse\", \"raison\" : \"Le modèle 2024 est le plus proche de 2024, mais le modèle 2024 est différent\" }",
+ "tokens_entree": 564,
+ "tokens_sortie": 55,
+ "arret": "stop",
+ "latence_s": 12.122
+}

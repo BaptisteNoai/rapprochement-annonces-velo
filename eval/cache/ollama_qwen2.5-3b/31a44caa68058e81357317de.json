@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 4, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle BMC | RoadmachineRival AMP X Two | 2024 est le seul candidat qui correspond à la marque et au modèle de l'annonce, bien que la version soit légèrement différente.\" }",
+ "tokens_entree": 524,
+ "tokens_sortie": 71,
+ "arret": "stop",
+ "latence_s": 12.934
+}

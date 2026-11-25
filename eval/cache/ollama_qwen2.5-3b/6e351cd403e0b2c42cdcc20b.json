@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 8, \"confiance\" : \"moyenne\", \"raison\" : \"Topstone 1 et Topstone RIVAL AXS sont des versions différentes\" }",
+ "tokens_entree": 540,
+ "tokens_sortie": 42,
+ "arret": "stop",
+ "latence_s": 9.802
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 4, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Turbo Levo Comp est identique à Turbo Levo Comp, la seule différence est la finition (aluminium vs composite)\" }",
+ "tokens_entree": 537,
+ "tokens_sortie": 55,
+ "arret": "stop",
+ "latence_s": 10.995
+}

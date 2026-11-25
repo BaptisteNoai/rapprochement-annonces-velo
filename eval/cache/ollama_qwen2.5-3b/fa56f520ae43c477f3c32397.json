@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 3, \"confiance\" : \"basse\", \"raison\" : \"Le modèle 2024 est absent dans la liste de candidats\" }",
+ "tokens_entree": 539,
+ "tokens_sortie": 41,
+ "arret": "stop",
+ "latence_s": 13.121
+}

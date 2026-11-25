@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 3, \"confiance\" : \"basse\", \"raison\" : \"Le modèle E-Vitess Sport Gent 2023 est le plus proche en termes de version, mais la différence d'année est significative.\" }",
+ "tokens_entree": 560,
+ "tokens_sortie": 60,
+ "arret": "stop",
+ "latence_s": 11.526
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"La version FS est différente de la version H10\" }",
+ "tokens_entree": 314,
+ "tokens_sortie": 30,
+ "arret": "stop",
+ "latence_s": 5.399
+}

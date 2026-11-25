@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle 2025 est le plus proche de 2026 parmi les candidats\" }",
+ "tokens_entree": 517,
+ "tokens_sortie": 50,
+ "arret": "stop",
+ "latence_s": 9.834
+}

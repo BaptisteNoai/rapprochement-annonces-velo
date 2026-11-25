@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Turbo Levo SL Comp est identique à Turbo Creo SL Comp, la seule différence est la présence de 'Carbon' dans le nom du modèle candidat 3 et 4, ce qui est un détail mineur.\" }",
+ "tokens_entree": 535,
+ "tokens_sortie": 74,
+ "arret": "stop",
+ "latence_s": 12.335
+}

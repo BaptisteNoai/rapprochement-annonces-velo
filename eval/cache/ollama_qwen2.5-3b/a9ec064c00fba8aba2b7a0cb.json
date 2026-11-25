@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 9, \"confiance\" : \"basse\", \"raison\" : \"Seul modèle de même gamme et version, mais cadre différent (29 vs 27.5)\" }",
+ "tokens_entree": 570,
+ "tokens_sortie": 48,
+ "arret": "stop",
+ "latence_s": 14.713
+}

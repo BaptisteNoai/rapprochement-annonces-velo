@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Turbo Levo Comp est légèrement différent du Turbo Levo, mais la différence est mineure et le Turbo Levo Comp est la version la plus proche de Turbo Levo.\" }",
+ "tokens_entree": 550,
+ "tokens_sortie": 64,
+ "arret": "stop",
+ "latence_s": 11.454
+}

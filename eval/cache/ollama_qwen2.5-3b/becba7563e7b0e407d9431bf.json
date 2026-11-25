@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Rise H20 est le plus proche en termes de version et est de l'année 2023, la plus proche de l'année 2025 de l'annonce.\" }",
+ "tokens_entree": 536,
+ "tokens_sortie": 72,
+ "arret": "stop",
+ "latence_s": 12.157
+}

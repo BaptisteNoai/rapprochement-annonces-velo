@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Le modèle de l'annonce contient 'Comp' alors que le modèle du catalogue ne le fait pas\" }",
+ "tokens_entree": 311,
+ "tokens_sortie": 37,
+ "arret": "stop",
+ "latence_s": 5.145
+}

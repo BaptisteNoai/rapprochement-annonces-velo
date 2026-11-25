@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 0, \"confiance\" : \"basse\", \"raison\" : \"Le modèle candidat est de la marque Santa Cruz, mais la version n'est pas la même. La version de l'annonce est la Bullit GX AXS, tandis que le candidat est la Brsn 4.1 C MX 23 Gr.M.\" }",
+ "tokens_entree": 391,
+ "tokens_sortie": 81,
+ "arret": "stop",
+ "latence_s": 10.274
+}

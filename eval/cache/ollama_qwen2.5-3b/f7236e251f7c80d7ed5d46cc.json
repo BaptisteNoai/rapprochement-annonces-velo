@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 7, \"confiance\" : \"moyenne\", \"raison\" : \"Le Chaser est identique à la Crafty R, la seule différence est l'année\" }",
+ "tokens_entree": 521,
+ "tokens_sortie": 46,
+ "arret": "stop",
+ "latence_s": 10.485
+}

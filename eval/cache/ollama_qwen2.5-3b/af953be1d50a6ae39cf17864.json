@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"La version Comp est différente de la version XT ou Race du modèle catalogue\" }",
+ "tokens_entree": 308,
+ "tokens_sortie": 33,
+ "arret": "stop",
+ "latence_s": 5.94
+}

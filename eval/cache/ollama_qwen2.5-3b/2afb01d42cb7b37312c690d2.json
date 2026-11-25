@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 2, \"confiance\" : \"basse\", \"raison\" : \"La version Overvolt HT 9.7 est la plus proche en termes de puissance, mais la version 2023 est plus récente que 2027.\" }",
+ "tokens_entree": 549,
+ "tokens_sortie": 65,
+ "arret": "stop",
+ "latence_s": 13.158
+}

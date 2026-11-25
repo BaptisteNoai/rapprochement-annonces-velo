@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 4, \"confiance\" : \"haute\", \"raison\" : \"Le modèle 4 (Talon E+ 2) est identique au modèle de l'annonce (Talon E+ 29) et a la même année (2023).\" }",
+ "tokens_entree": 538,
+ "tokens_sortie": 66,
+ "arret": "stop",
+ "latence_s": 14.09
+}

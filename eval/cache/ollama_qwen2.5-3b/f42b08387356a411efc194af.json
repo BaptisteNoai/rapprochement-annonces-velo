@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"La version 2018 n'est pas la même que la version 2020\" }",
+ "tokens_entree": 304,
+ "tokens_sortie": 38,
+ "arret": "stop",
+ "latence_s": 6.043
+}

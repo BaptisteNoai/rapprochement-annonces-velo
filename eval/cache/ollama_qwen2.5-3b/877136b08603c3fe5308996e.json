@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"Année différente\" }",
+ "tokens_entree": 310,
+ "tokens_sortie": 22,
+ "arret": "stop",
+ "latence_s": 4.185
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 10, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Turbo Levo SL 2 Comp Carbon de 2023 est le plus proche en année de l'annonce Turbo Kenevo SL 2 Comp de 2024\" }",
+ "tokens_entree": 549,
+ "tokens_sortie": 69,
+ "arret": "stop",
+ "latence_s": 11.796
+}

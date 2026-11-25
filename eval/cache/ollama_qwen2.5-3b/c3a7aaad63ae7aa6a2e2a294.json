@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"La version Pro est différente du modèle catalogue\" }",
+ "tokens_entree": 309,
+ "tokens_sortie": 25,
+ "arret": "stop",
+ "latence_s": 5.316
+}

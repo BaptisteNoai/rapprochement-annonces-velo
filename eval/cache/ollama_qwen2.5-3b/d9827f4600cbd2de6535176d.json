@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": true, \"raison\": \"Les modèles sont identiques : Specialized Turbo Levo Comp Alloy 2022\" }",
+ "tokens_entree": 307,
+ "tokens_sortie": 35,
+ "arret": "stop",
+ "latence_s": 5.325
+}

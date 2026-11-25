@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"La version Comp du modèle du catalogue est différente de la Comp E5 de l'annonce.\" }",
+ "tokens_entree": 309,
+ "tokens_sortie": 37,
+ "arret": "stop",
+ "latence_s": 5.986
+}

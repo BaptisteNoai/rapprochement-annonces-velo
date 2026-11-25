@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Rise M10 de 2022 est le plus proche en année de l'annonce 2026, mais il est différent de l'annonce Orbea Rise LT M10 2026.\" }",
+ "tokens_entree": 538,
+ "tokens_sortie": 76,
+ "arret": "stop",
+ "latence_s": 12.775
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 2, \"confiance\" : \"basse\", \"raison\" : \"La version 2023 est la plus proche de 2023 de l'annonce, mais la version 2024 est identique à celle de l'annonce.\" }",
+ "tokens_entree": 583,
+ "tokens_sortie": 66,
+ "arret": "stop",
+ "latence_s": 13.631
+}

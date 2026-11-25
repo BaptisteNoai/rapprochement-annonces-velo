@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version 2018 du catalogue ne correspond pas à la version 2017\" }",
+ "tokens_entree": 325,
+ "tokens_sortie": 35,
+ "arret": "stop",
+ "latence_s": 6.597
+}

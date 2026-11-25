@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"Modèle du catalogue : MOTERRA SL 1, pas MOTERRA Neo Carbon LT 1\" }",
+ "tokens_entree": 313,
+ "tokens_sortie": 39,
+ "arret": "stop",
+ "latence_s": 6.208
+}

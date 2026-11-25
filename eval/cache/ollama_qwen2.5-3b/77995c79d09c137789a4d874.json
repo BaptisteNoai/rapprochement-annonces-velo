@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\": 1, \"confiance\": \"moyenne\", \"raison\": \"Le Scott Patron eRIDE 910 est la version la plus proche en termes de gamme et de finition de l'annonce, bien que l'année soit différente.\" }",
+ "tokens_entree": 553,
+ "tokens_sortie": 64,
+ "arret": "stop",
+ "latence_s": 17.546
+}

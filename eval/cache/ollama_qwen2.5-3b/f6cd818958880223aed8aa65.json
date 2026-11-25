@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 9, \"confiance\" : \"basse\", \"raison\" : \"Annonce : 2025, Candidats : 2021, 2022, 2023\" }",
+ "tokens_entree": 528,
+ "tokens_sortie": 55,
+ "arret": "stop",
+ "latence_s": 10.881
+}

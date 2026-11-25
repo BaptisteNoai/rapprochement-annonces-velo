@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 0, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Simplon Kagu Bosch 275 est absent du catalogue\" }",
+ "tokens_entree": 530,
+ "tokens_sortie": 41,
+ "arret": "stop",
+ "latence_s": 9.82
+}

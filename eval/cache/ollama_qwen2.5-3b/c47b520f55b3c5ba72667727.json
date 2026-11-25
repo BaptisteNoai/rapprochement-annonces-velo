@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"La version Pro est différente du modèle catalogue basique Fathom E+ 2\" }",
+ "tokens_entree": 310,
+ "tokens_sortie": 33,
+ "arret": "stop",
+ "latence_s": 4.786
+}

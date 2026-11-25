@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"La version GX AXS du modèle du catalogue n'est pas la même que l'XT de l'annonce.\" }",
+ "tokens_entree": 312,
+ "tokens_sortie": 38,
+ "arret": "stop",
+ "latence_s": 6.18
+}

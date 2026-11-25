@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 0, \"confiance\" : \"basse\", \"raison\" : \"L'annonce est pour 2025, mais aucun modèle ne correspond exactement en 2025.\" }",
+ "tokens_entree": 542,
+ "tokens_sortie": 50,
+ "arret": "stop",
+ "latence_s": 12.117
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"Version M20 du catalogue n'existe pas\" }",
+ "tokens_entree": 309,
+ "tokens_sortie": 28,
+ "arret": "stop",
+ "latence_s": 5.375
+}

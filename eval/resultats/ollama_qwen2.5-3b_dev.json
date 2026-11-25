@@ -1,0 +1,19 @@
+{
+ "date": "2026-11-24",
+ "methode": "ollama_qwen2.5-3b_dev",
+ "n": 100,
+ "exactitude": 0.42,
+ "precision": 0.3667,
+ "rappel": 0.6111,
+ "aucun_juste": 0.1957,
+ "n_avec_modele": 54,
+ "n_sans_modele": 46,
+ "partie": "dev",
+ "modele": "qwen2.5:3b",
+ "appels_llm": 100,
+ "cout_total_usd": 0.0,
+ "cout_pour_1000_usd": 0.0,
+ "latence_moyenne_s": 10.852,
+ "reponses_invalides": 0,
+ "nouveaux_appels": 0
+}

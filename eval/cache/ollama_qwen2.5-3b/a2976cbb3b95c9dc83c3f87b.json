@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle 2025 est identique à l'annonce, et le modèle 2023 est plus ancien.\" }",
+ "tokens_entree": 545,
+ "tokens_sortie": 54,
+ "arret": "stop",
+ "latence_s": 10.431
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Moterra Neo 4 est proche en gamme et version, mais la différence d'année est trop grande\" }",
+ "tokens_entree": 542,
+ "tokens_sortie": 51,
+ "arret": "stop",
+ "latence_s": 10.258
+}

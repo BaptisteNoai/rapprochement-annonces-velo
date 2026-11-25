@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": true, \"raison\": \"Les modèles sont identiques : Specialized Turbo Tero 3.0 2023 est identique au Turbo Tero 3.0 2023 du catalogue.\" }",
+ "tokens_entree": 311,
+ "tokens_sortie": 55,
+ "arret": "stop",
+ "latence_s": 7.236
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle 2023 de Trance X E+ 3 est identique à celui de l'annonce, avec une seule année différente.\" }",
+ "tokens_entree": 551,
+ "tokens_sortie": 58,
+ "arret": "stop",
+ "latence_s": 10.97
+}

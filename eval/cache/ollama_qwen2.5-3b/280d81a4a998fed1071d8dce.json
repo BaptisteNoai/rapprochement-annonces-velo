@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Année différente (2025 pour l'annonce, 2022 pour le modèle du catalogue)\" }",
+ "tokens_entree": 314,
+ "tokens_sortie": 40,
+ "arret": "stop",
+ "latence_s": 6.195
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"La version M10 est différente de la version LT\" }",
+ "tokens_entree": 309,
+ "tokens_sortie": 30,
+ "arret": "stop",
+ "latence_s": 5.805
+}

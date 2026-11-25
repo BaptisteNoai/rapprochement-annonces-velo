@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle 2025 est le même que l'annonce, et le modèle 2023 est le plus proche de l'année 2025.\" }",
+ "tokens_entree": 543,
+ "tokens_sortie": 64,
+ "arret": "stop",
+ "latence_s": 15.109
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 2, \"confiance\" : \"moyenne\", \"raison\" : \"Le Patron eRIDE 910 est la même gamme que l'annonce, et 2024 est la plus proche de 2024 de l'annonce.\" }",
+ "tokens_entree": 553,
+ "tokens_sortie": 67,
+ "arret": "stop",
+ "latence_s": 13.009
+}

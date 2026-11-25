@@ -1,0 +1,13 @@
+{
+ "date": "2026-11-24",
+ "methode": "regle_seuil100_dev",
+ "n": 100,
+ "exactitude": 0.72,
+ "precision": 0.6829,
+ "rappel": 0.5185,
+ "aucun_juste": 0.9565,
+ "n_avec_modele": 54,
+ "n_sans_modele": 46,
+ "partie": "dev",
+ "seuil": 100.0
+}

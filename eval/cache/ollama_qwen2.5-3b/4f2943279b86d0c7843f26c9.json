@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"Année différente (2020 vs 2023)\" }",
+ "tokens_entree": 308,
+ "tokens_sortie": 33,
+ "arret": "stop",
+ "latence_s": 4.887
+}

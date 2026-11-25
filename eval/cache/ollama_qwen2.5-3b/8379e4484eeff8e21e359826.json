@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version TM du modèle catalogue est SLX 800, pas HPC\" }",
+ "tokens_entree": 321,
+ "tokens_sortie": 32,
+ "arret": "stop",
+ "latence_s": 4.664
+}

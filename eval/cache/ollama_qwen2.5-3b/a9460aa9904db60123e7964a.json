@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 4, \"confiance\" : \"haute\", \"raison\" : \"Le modèle Rail 9.8 est identique à Rail 9.7, et le modèle Rail 9.8 XT est identique à Rail 9.7. Le modèle le plus proche est donc Rail 9.7.\" }",
+ "tokens_entree": 526,
+ "tokens_sortie": 75,
+ "arret": "stop",
+ "latence_s": 11.583
+}

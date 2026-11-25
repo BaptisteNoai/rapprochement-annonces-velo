@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 4, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle 4 (GIANT | Explore E+ 1 | 2023) est le plus proche en termes de version et de gamme, bien que la date de 2023 soit légèrement différente.\" }",
+ "tokens_entree": 535,
+ "tokens_sortie": 77,
+ "arret": "stop",
+ "latence_s": 12.801
+}

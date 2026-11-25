@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle 2024 est proche de 2026 mais le modèle 2022 est identique\" }",
+ "tokens_entree": 560,
+ "tokens_sortie": 53,
+ "arret": "stop",
+ "latence_s": 11.198
+}

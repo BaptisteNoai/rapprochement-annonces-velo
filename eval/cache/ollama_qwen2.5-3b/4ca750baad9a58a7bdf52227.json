@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"La version 2020 du modèle catalogue n'est pas exactement le même modèle que la version 2018.\" }",
+ "tokens_entree": 319,
+ "tokens_sortie": 44,
+ "arret": "stop",
+ "latence_s": 7.033
+}

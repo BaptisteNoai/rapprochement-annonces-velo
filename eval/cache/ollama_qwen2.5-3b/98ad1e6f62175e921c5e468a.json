@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"La version 2019 est la plus proche de 2020\" }",
+ "tokens_entree": 518,
+ "tokens_sortie": 44,
+ "arret": "stop",
+ "latence_s": 9.293
+}

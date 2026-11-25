@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle 2 est légèrement plus récent que l'annonce (2023 vs 2022)\" }",
+ "tokens_entree": 524,
+ "tokens_sortie": 51,
+ "arret": "stop",
+ "latence_s": 10.413
+}

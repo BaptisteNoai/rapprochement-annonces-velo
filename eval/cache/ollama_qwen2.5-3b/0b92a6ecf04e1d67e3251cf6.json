@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version AT présente dans la catalogue, version HPC annoncé\" }",
+ "tokens_entree": 320,
+ "tokens_sortie": 28,
+ "arret": "stop",
+ "latence_s": 5.259
+}

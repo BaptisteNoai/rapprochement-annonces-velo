@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Wild H30 de 2022 est le plus proche en année de l'annonce 2024, mais il s'agit d'une version différente.\" }",
+ "tokens_entree": 546,
+ "tokens_sortie": 65,
+ "arret": "stop",
+ "latence_s": 12.135
+}

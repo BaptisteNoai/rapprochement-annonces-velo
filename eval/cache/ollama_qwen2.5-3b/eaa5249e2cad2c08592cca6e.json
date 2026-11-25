@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle 2025 est plus éloigné de 2024 que les autres candidats\" }",
+ "tokens_entree": 517,
+ "tokens_sortie": 50,
+ "arret": "stop",
+ "latence_s": 9.862
+}

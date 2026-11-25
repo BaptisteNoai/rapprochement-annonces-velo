@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 0, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Turbo Creo 2 Expert est différent des Turbo Kenevo, Turbo Levo, Turbo Levo SL et Turbo Levo Expert Carbon\" }",
+ "tokens_entree": 542,
+ "tokens_sortie": 56,
+ "arret": "stop",
+ "latence_s": 10.981
+}

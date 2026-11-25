@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"La version 2024 du modèle Fuel EXe 5 n'est pas identique à la version 2023.\" }",
+ "tokens_entree": 304,
+ "tokens_sortie": 45,
+ "arret": "stop",
+ "latence_s": 6.266
+}

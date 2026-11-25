@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"haute\", \"raison\" : \"Le modèle Turbo Levo Comp est identique à l'annonce, avec la même finition et la même marque.\" }",
+ "tokens_entree": 533,
+ "tokens_sortie": 49,
+ "arret": "stop",
+ "latence_s": 9.852
+}

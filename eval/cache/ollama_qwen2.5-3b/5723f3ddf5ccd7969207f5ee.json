@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle candidat 1 est identique à l'annonce, sauf pour la version (SL 625 29 vs HPC SL 625 29), qui est légèrement différente mais compatible.\" }",
+ "tokens_entree": 603,
+ "tokens_sortie": 75,
+ "arret": "stop",
+ "latence_s": 14.464
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 4, \"confiance\" : \"basse\", \"raison\" : \"Powerfly FS 9 est différent de Powerfly 5\" }",
+ "tokens_entree": 519,
+ "tokens_sortie": 38,
+ "arret": "stop",
+ "latence_s": 8.707
+}

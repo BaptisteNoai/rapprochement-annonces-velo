@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"La différence entre 'Turbo Kenevo SL Comp' et 'Turbo Kenevo Sl Comp' est mineure et ne change pas la gamme/version.\" }",
+ "tokens_entree": 540,
+ "tokens_sortie": 60,
+ "arret": "stop",
+ "latence_s": 10.963
+}

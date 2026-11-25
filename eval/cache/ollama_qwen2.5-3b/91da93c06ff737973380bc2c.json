@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 7, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Orbea | Rallon M10 | 2024 est le seul qui correspond à la gamme Orbea WILD M10, mais il y a une différence de marque. Orbea WILD M10 2024 pourrait être un modèle spécifique de Rallon.\" }",
+ "tokens_entree": 538,
+ "tokens_sortie": 91,
+ "arret": "stop",
+ "latence_s": 13.492
+}

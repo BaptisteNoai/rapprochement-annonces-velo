@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"La version Comp du modèle catalogue est indiquée comme SL\" }",
+ "tokens_entree": 306,
+ "tokens_sortie": 28,
+ "arret": "stop",
+ "latence_s": 4.511
+}

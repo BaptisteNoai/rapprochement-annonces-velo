@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"Version SL vs Expert\" }",
+ "tokens_entree": 308,
+ "tokens_sortie": 22,
+ "arret": "stop",
+ "latence_s": 3.919
+}

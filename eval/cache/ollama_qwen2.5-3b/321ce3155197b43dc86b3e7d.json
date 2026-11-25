@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Le modèle de l'annonce contient '2024' alors que le modèle du catalogue est de l'année 2023.\" }",
+ "tokens_entree": 314,
+ "tokens_sortie": 46,
+ "arret": "stop",
+ "latence_s": 6.803
+}

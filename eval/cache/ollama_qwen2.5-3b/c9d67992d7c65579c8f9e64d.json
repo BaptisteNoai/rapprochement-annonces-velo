@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Le modèle de l'annonce manque la version '2022' présente dans le modèle du catalogue\" }",
+ "tokens_entree": 311,
+ "tokens_sortie": 38,
+ "arret": "stop",
+ "latence_s": 6.137
+}

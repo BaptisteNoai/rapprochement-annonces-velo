@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"La version T-Type n'est pas présente dans le modèle du catalogue\" }",
+ "tokens_entree": 306,
+ "tokens_sortie": 31,
+ "arret": "stop",
+ "latence_s": 5.523
+}

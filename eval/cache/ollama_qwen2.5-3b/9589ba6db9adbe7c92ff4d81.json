@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"La version 2023 du modèle du catalogue n'est pas identique à la version 2022.\" }",
+ "tokens_entree": 309,
+ "tokens_sortie": 42,
+ "arret": "stop",
+ "latence_s": 5.962
+}

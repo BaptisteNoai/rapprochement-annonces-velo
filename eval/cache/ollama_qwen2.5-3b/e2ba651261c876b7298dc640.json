@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle 2023 est le même que le modèle 2023, mais le modèle 750 est plus proche de la taille de l'annonce.\" }",
+ "tokens_entree": 533,
+ "tokens_sortie": 64,
+ "arret": "stop",
+ "latence_s": 11.019
+}

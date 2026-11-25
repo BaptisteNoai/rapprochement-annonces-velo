@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le Turbo Levo SL 2 Comp Alloy est la même gamme que Turbo Levo, avec seulement une petite différence dans le nom (SL 2 Comp vs Turbo Levo SL Comp)\" }",
+ "tokens_entree": 535,
+ "tokens_sortie": 65,
+ "arret": "stop",
+ "latence_s": 11.593
+}

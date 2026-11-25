@@ -1,0 +1,6 @@
+{
+  "baseline_seuil100_test": {"exactitude": 0.75, "precision": 0.5897},
+  "regle_seuil100_test": {"exactitude": 0.75, "precision": 0.6286},
+  "ollama_qwen2.5-3b_test": {"exactitude": 0.30, "precision": 0.2333},
+  "hybride_qwen2.5-3b_test": {"exactitude": 0.63, "precision": 0.60}
+}

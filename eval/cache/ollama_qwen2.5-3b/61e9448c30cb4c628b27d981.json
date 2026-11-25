@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\": 1, \"confiance\": \"basse\", \"raison\": \"Le modèle Moterra Neo 4 est légèrement différent de Moterra Neo 3, mais la différence est mineure.\" }",
+ "tokens_entree": 543,
+ "tokens_sortie": 47,
+ "arret": "stop",
+ "latence_s": 10.523
+}

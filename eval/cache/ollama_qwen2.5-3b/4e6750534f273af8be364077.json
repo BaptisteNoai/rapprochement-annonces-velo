@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle E-Spark 720 est légèrement plus puissant que l'E-Spark 710, ce qui rend la comparaison difficile sans plus de détails.\" }",
+ "tokens_entree": 531,
+ "tokens_sortie": 63,
+ "arret": "stop",
+ "latence_s": 12.804
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle est identique, seulement la version 2020 vs 2020 est identique.\" }",
+ "tokens_entree": 511,
+ "tokens_sortie": 50,
+ "arret": "stop",
+ "latence_s": 10.115
+}

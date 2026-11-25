@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version SL manquée dans l'annonce\" }",
+ "tokens_entree": 338,
+ "tokens_sortie": 25,
+ "arret": "stop",
+ "latence_s": 5.522
+}

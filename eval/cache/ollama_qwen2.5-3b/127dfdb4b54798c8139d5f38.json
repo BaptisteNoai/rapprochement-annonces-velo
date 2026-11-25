@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 9, \"confiance\" : \"basse\", \"raison\" : \"La date de l'annonce (SAMEDI 28.2) est différente de celle des candidats (Lundi 28.3 et Samedi 28.2)\" }",
+ "tokens_entree": 564,
+ "tokens_sortie": 65,
+ "arret": "stop",
+ "latence_s": 11.872
+}

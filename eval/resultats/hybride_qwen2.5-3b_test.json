@@ -1,0 +1,20 @@
+{
+ "date": "2026-11-24",
+ "methode": "hybride_qwen2.5-3b_test",
+ "n": 100,
+ "exactitude": 0.63,
+ "precision": 0.6,
+ "rappel": 0.1429,
+ "aucun_juste": 0.9828,
+ "n_avec_modele": 42,
+ "n_sans_modele": 58,
+ "partie": "test",
+ "modele": "qwen2.5:3b",
+ "appels_llm": 91,
+ "cout_total_usd": 0.0,
+ "cout_pour_1000_usd": 0.0,
+ "latence_moyenne_s": 5.635,
+ "reponses_invalides": 0,
+ "nouveaux_appels": 0,
+ "seuil": 80.0
+}

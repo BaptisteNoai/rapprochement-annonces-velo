@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"haute\", \"raison\" : \"Le modèle Turbo Tero 3.0 est identique sauf pour la version Step-Through, et l'année 2023 est la plus proche de 2023 de l'annonce.\" }",
+ "tokens_entree": 562,
+ "tokens_sortie": 71,
+ "arret": "stop",
+ "latence_s": 17.379
+}

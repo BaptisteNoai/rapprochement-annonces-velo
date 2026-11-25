@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Le modèle de l'annonce contient des mots de version (Rival / GX Eagle AXS) qui ne correspondent pas à celui du modèle du catalogue (Expert)\" }",
+ "tokens_entree": 318,
+ "tokens_sortie": 49,
+ "arret": "stop",
+ "latence_s": 7.059
+}

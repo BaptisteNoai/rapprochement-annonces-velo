@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 3, \"confiance\" : \"basse\", \"raison\" : \"La version 8.0 de l'annonce est la plus proche de la version 7.0 du candidat 3\" }",
+ "tokens_entree": 567,
+ "tokens_sortie": 53,
+ "arret": "stop",
+ "latence_s": 12.787
+}

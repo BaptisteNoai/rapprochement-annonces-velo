@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version Turbo Levo, pas Turbo Creo\" }",
+ "tokens_entree": 309,
+ "tokens_sortie": 25,
+ "arret": "stop",
+ "latence_s": 4.254
+}

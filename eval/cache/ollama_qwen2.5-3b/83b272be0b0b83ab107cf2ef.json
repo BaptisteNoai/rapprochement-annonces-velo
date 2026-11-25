@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"La version 'E+' est différente du modèle 'Reign' dans le catalogue.\" }",
+ "tokens_entree": 301,
+ "tokens_sortie": 35,
+ "arret": "stop",
+ "latence_s": 6.022
+}

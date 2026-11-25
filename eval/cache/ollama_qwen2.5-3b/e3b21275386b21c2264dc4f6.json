@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Le modèle de l'annonce contient 'SL' qui n'est pas dans le modèle du catalogue\" }",
+ "tokens_entree": 320,
+ "tokens_sortie": 36,
+ "arret": "stop",
+ "latence_s": 6.226
+}

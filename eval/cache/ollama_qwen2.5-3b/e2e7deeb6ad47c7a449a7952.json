@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": true, \"raison\": \"\"}",
+ "tokens_entree": 324,
+ "tokens_sortie": 15,
+ "arret": "stop",
+ "latence_s": 4.531
+}

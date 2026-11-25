@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version 2026 du modèle 2022\" }",
+ "tokens_entree": 319,
+ "tokens_sortie": 29,
+ "arret": "stop",
+ "latence_s": 4.746
+}

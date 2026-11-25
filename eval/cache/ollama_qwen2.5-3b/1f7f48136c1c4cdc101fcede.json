@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 2, \"confiance\" : \"basse\", \"raison\" : \"Différence de modèle entre Wild H30 et Wild M-TEAM\" }",
+ "tokens_entree": 550,
+ "tokens_sortie": 42,
+ "arret": "stop",
+ "latence_s": 10.104
+}

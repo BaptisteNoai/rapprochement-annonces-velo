@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 3, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Triestina est la plus proche en termes de gamme et de version.\" }",
+ "tokens_entree": 543,
+ "tokens_sortie": 46,
+ "arret": "stop",
+ "latence_s": 10.36
+}

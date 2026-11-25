@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 2, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Turbo Levo SL Comp Alloy 2024 est le plus proche en termes de version et de gamme\" }",
+ "tokens_entree": 541,
+ "tokens_sortie": 54,
+ "arret": "stop",
+ "latence_s": 13.785
+}

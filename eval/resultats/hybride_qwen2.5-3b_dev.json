@@ -1,0 +1,20 @@
+{
+ "date": "2026-11-24",
+ "methode": "hybride_qwen2.5-3b_dev",
+ "n": 100,
+ "exactitude": 0.53,
+ "precision": 0.7,
+ "rappel": 0.1296,
+ "aucun_juste": 1.0,
+ "n_avec_modele": 54,
+ "n_sans_modele": 46,
+ "partie": "dev",
+ "modele": "qwen2.5:3b",
+ "appels_llm": 100,
+ "cout_total_usd": 0.0,
+ "cout_pour_1000_usd": 0.0,
+ "latence_moyenne_s": 5.473,
+ "reponses_invalides": 0,
+ "nouveaux_appels": 0,
+ "seuil": 80.0
+}

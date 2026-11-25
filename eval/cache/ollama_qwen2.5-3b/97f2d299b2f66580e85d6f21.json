@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"Version GAIN D30i est différente de Gain M30\" }",
+ "tokens_entree": 310,
+ "tokens_sortie": 33,
+ "arret": "stop",
+ "latence_s": 5.75
+}

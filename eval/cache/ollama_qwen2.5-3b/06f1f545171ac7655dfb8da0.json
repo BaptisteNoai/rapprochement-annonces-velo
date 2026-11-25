@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"Version 'Advanced E+' présente dans l'annonce n'est pas identique à la version 'Advanced' du modèle du catalogue.\" }",
+ "tokens_entree": 306,
+ "tokens_sortie": 43,
+ "arret": "stop",
+ "latence_s": 6.613
+}

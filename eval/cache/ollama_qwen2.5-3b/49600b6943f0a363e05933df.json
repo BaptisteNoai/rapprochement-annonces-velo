@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version Actionteam différente de TM\" }",
+ "tokens_entree": 337,
+ "tokens_sortie": 23,
+ "arret": "stop",
+ "latence_s": 4.185
+}

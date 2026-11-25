@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 3, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle Turbo Levo est identique, seul l'année varie\" }",
+ "tokens_entree": 524,
+ "tokens_sortie": 42,
+ "arret": "stop",
+ "latence_s": 10.455
+}

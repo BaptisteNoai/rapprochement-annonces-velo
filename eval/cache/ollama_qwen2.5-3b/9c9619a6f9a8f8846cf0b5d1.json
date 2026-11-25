@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 9, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle E-Teru Advanced 2024 est le plus proche en termes de version et de gamme\" }",
+ "tokens_entree": 526,
+ "tokens_sortie": 53,
+ "arret": "stop",
+ "latence_s": 10.064
+}

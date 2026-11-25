@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 3, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Trek Rail 9.7 a une année différente mais est de la même gamme que l'annonce\" }",
+ "tokens_entree": 539,
+ "tokens_sortie": 50,
+ "arret": "stop",
+ "latence_s": 19.669
+}

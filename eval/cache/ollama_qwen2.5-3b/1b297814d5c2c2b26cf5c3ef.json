@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Rail 7 est la plus proche en termes de version, mais la version 2023 est différente\" }",
+ "tokens_entree": 534,
+ "tokens_sortie": 53,
+ "arret": "stop",
+ "latence_s": 10.32
+}

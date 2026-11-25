@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 2, \"confiance\" : \"haute\", \"raison\" : \"Le modèle Turbo Levo Comp Alloy est identique à celui de l'annonce, avec la seule différence d'année 2022 pour l'annonce et 2021 pour le candidat.\" }",
+ "tokens_entree": 524,
+ "tokens_sortie": 69,
+ "arret": "stop",
+ "latence_s": 11.401
+}

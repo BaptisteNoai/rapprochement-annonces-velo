@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"Le modèle de l'annonce contient 'GRX 600' qui n'est pas dans le modèle du catalogue 'Aria E-Road Ultegra'\" }",
+ "tokens_entree": 318,
+ "tokens_sortie": 52,
+ "arret": "stop",
+ "latence_s": 7.344
+}

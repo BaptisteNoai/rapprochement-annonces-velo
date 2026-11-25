@@ -1,0 +1,19 @@
+{
+ "date": "2026-11-24",
+ "methode": "verif_qwen2.5-3b_dev",
+ "n": 100,
+ "exactitude": 0.49,
+ "precision": 0.5,
+ "rappel": 0.0556,
+ "aucun_juste": 1.0,
+ "n_avec_modele": 54,
+ "n_sans_modele": 46,
+ "partie": "dev",
+ "modele": "qwen2.5:3b",
+ "appels_llm": 95,
+ "cout_total_usd": 0.0,
+ "cout_pour_1000_usd": 0.0,
+ "latence_moyenne_s": 5.987,
+ "reponses_invalides": 0,
+ "nouveaux_appels": 0
+}

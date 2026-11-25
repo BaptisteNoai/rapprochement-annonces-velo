@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 0, \"confiance\" : \"basse\", \"raison\" : \"Le modèle est différent, la version est différente.\" }",
+ "tokens_entree": 393,
+ "tokens_sortie": 36,
+ "arret": "stop",
+ "latence_s": 6.96
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"Modèle du catalogue : Stereo Hybrid 160, annonce : STEREO HYBRID 160 HPC (ajout de la lettre 'H' dans l'annonce)\" }",
+ "tokens_entree": 326,
+ "tokens_sortie": 57,
+ "arret": "stop",
+ "latence_s": 6.491
+}

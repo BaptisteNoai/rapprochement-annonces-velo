@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"Le modèle de l'annonce contient un mot de version absent du modèle du catalogue : 'Sport'\" }",
+ "tokens_entree": 309,
+ "tokens_sortie": 38,
+ "arret": "stop",
+ "latence_s": 6.28
+}

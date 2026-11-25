@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version JAM² 6.9 est de la gamme Nine, pas Nine.\" }",
+ "tokens_entree": 309,
+ "tokens_sortie": 33,
+ "arret": "stop",
+ "latence_s": 5.866
+}

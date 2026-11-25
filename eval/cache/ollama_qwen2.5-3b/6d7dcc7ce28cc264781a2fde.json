@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Le modèle de l'annonce contient 'Creo' qui n'est pas présent dans le modèle du catalogue\" }",
+ "tokens_entree": 314,
+ "tokens_sortie": 38,
+ "arret": "stop",
+ "latence_s": 6.407
+}

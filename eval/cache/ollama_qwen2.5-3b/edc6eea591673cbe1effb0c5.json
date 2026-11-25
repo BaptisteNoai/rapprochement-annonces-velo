@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\": 2, \"confiance\": \"moyenne\", \"raison\": \"Le modèle Wild H30 de 2022 est le plus proche en termes de version et de gamme, bien que l'année soit différente.\" }",
+ "tokens_entree": 538,
+ "tokens_sortie": 60,
+ "arret": "stop",
+ "latence_s": 12.563
+}

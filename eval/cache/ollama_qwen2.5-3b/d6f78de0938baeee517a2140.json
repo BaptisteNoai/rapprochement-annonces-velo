@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": true, \"raison\": \"Le modèle de l'annonce correspond exactement au modèle du catalogue, avec la même gamme (Trek), la même version (Rail 5) et la même année (2022).\" }",
+ "tokens_entree": 305,
+ "tokens_sortie": 56,
+ "arret": "stop",
+ "latence_s": 7.475
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version Tuned du modèle catalogue, différence de finition\" }",
+ "tokens_entree": 312,
+ "tokens_sortie": 27,
+ "arret": "stop",
+ "latence_s": 5.74
+}

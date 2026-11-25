@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 9, \"confiance\" : \"basse\", \"raison\" : \"Différences notables entre les modèles : Wild FS H30 (2022) et Wild FS H20 (2023) sont proches, mais Wild FS H20 est plus récent.\" }",
+ "tokens_entree": 543,
+ "tokens_sortie": 74,
+ "arret": "stop",
+ "latence_s": 15.008
+}

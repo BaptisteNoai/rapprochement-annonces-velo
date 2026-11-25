@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"haute\", \"raison\" : \"Le modèle 2025 est identique à celui de l'annonce, sans différence de gamme ou de finition.\" }",
+ "tokens_entree": 551,
+ "tokens_sortie": 52,
+ "arret": "stop",
+ "latence_s": 11.73
+}

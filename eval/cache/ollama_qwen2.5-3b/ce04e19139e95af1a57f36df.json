@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"haute\", \"raison\" : \"Le modèle et l'année sont identiques\" }",
+ "tokens_entree": 552,
+ "tokens_sortie": 35,
+ "arret": "stop",
+ "latence_s": 9.548
+}

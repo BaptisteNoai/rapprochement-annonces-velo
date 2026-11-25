@@ -1,0 +1,28 @@
+name: tests et évaluation
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  evaluation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements-dev.txt
+      - name: Tests unitaires
+        run: python -m pytest -q
+      - name: Évaluation sur les 100 annonces de test (réponses du LLM en cache, aucun appel)
+        run: |
+          python scripts/evaluer.py baseline --partie test --seuil 100
+          python scripts/evaluer.py regle --partie test --seuil 100
+          python scripts/evaluer.py ollama --partie test --hors-ligne
+          python scripts/evaluer.py hybride --partie test --seuil 80 --hors-ligne
+      - name: Non-régression par rapport aux références
+        run: python scripts/verifier_non_regression.py
+      - name: Image Docker
+        run: docker build -t rapprochement .

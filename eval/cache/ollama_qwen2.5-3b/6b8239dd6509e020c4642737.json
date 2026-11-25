@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 4, \"confiance\" : \"basse\", \"raison\" : \"Prime RX est la seule option qui ne change pas de gamme, mais la différence d'année est trop grande\" }",
+ "tokens_entree": 521,
+ "tokens_sortie": 49,
+ "arret": "stop",
+ "latence_s": 9.899
+}

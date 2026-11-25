@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 6, \"confiance\" : \"basse\", \"raison\" : \"Turbo Levo SL Expert Carbon 2020 est proche en version et en année de Turbo Kenevo Expert 2019\" }",
+ "tokens_entree": 547,
+ "tokens_sortie": 57,
+ "arret": "stop",
+ "latence_s": 10.898
+}

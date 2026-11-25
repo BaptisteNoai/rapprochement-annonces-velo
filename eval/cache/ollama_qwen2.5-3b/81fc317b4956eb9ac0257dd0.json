@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 8, \"confiance\" : \"basse\", \"raison\" : \"La plus proche année est 2020, mais le modèle est différent.\" }",
+ "tokens_entree": 536,
+ "tokens_sortie": 43,
+ "arret": "stop",
+ "latence_s": 10.896
+}

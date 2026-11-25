@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"basse\", \"raison\" : \"Le modèle Turbo Levo Comp Alloy 2023 est identique à celui de l'annonce, mais la candidature 1 est de 2023 tandis que l'annonce est de 2023.\" }",
+ "tokens_entree": 531,
+ "tokens_sortie": 74,
+ "arret": "stop",
+ "latence_s": 11.944
+}

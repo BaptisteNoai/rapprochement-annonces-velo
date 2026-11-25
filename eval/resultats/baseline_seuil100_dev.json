@@ -1,0 +1,13 @@
+{
+ "date": "2026-11-24",
+ "methode": "baseline_seuil100_dev",
+ "n": 100,
+ "exactitude": 0.75,
+ "precision": 0.6667,
+ "rappel": 0.5926,
+ "aucun_juste": 0.9348,
+ "n_avec_modele": 54,
+ "n_sans_modele": 46,
+ "partie": "dev",
+ "seuil": 100.0
+}

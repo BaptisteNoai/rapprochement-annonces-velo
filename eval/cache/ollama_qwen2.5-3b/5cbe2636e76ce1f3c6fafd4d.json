@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Moterra Neo Carbon LT 1 ≠ Moterra Neo 4\" }",
+ "tokens_entree": 312,
+ "tokens_sortie": 29,
+ "arret": "stop",
+ "latence_s": 7.23
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 3, \"confiance\" : \"basse\", \"raison\" : \"Le Turbo Vado SL 4.0 est la version la plus proche en termes de modèle et de finition, bien que la Turbo Vado SL 2 4.0 est légèrement plus récente.\" }",
+ "tokens_entree": 561,
+ "tokens_sortie": 71,
+ "arret": "stop",
+ "latence_s": 12.251
+}

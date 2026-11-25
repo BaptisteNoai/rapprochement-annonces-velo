@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\": false, \"raison\": \"Version XT différente\" }",
+ "tokens_entree": 304,
+ "tokens_sortie": 20,
+ "arret": "stop",
+ "latence_s": 4.704
+}

@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"meme_modele\" : false, \"raison\" : \"Mot de version absent du modèle du catalogue : JAM²\"}",
+ "tokens_entree": 320,
+ "tokens_sortie": 29,
+ "arret": "stop",
+ "latence_s": 5.671
+}

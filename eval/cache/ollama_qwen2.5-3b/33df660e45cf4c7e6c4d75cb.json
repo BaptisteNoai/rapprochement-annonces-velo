@@ -1,0 +1,7 @@
+{
+ "texte": "{ \"choix\" : 1, \"confiance\" : \"moyenne\", \"raison\" : \"Le modèle 2022 est le même que l'annonce\" }",
+ "tokens_entree": 548,
+ "tokens_sortie": 41,
+ "arret": "stop",
+ "latence_s": 9.943
+}
